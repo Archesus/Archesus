@@ -2,8 +2,6 @@
 
 I'm a passionate UI/UX Designer and Frontend Web Developer who loves crafting modern, accessible, and user-centric digital experiences. With a strong foundation in HTML, CSS, JavaScript, and frameworks like React and Next.js, I build sleek interfaces and scalable web applications.
 
-![Anurag's Stats](https://github-readme-stats.vercel.app/api?username=anuragkumar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
 - 🎨 I'm a designer-developer hybrid with a keen eye for aesthetics and usability.
