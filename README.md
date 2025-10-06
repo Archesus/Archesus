@@ -38,4 +38,12 @@ I'm a passionate UI/UX Designer and Frontend Web Developer who loves crafting mo
 - 💼 Connect on [LinkedIn](https://linkedin.com/in/anurag-kumar-301243269)
 - ✍️ Check out my graphic deign works on [Instagram](https://instagram.com/desi.gnlooms)
 
+
+<div align="center">
+  
+  ![snake gif](https://github.com/Archesus/Archesus/blob/output/github-snake-dark.svg)
+  
+</div>
+
+
 Thanks for stopping by! Let's build something meaningful together. 🚀
