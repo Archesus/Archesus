@@ -18,7 +18,7 @@ I'm a passionate UI/UX Designer and Frontend Web Developer who loves crafting mo
 
 ## 💼 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,photoshop,illustrator,docker,kubernetes,linux,jenkins,opentelemetry)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,photoshop,illustrator,docker,kubernetes,linux,jenkins)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
